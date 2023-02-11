@@ -7,6 +7,6 @@
 Команда *git status* показывает какие изменения не учтены в текущем файле
 ## Команда Git config
 Команда *git config* настраивает конфигурацию:
-*изменение имени пользователя *git config username имя пользователя*
-*изменение почты *git config usermail название майла*
-*изменение типа редактора текстового *git config --global core.editor "code --wait"*
+* изменение имени пользователя *git config username имя пользователя*
+* изменение почты *git config usermail название майла*
+* изменение типа редактора текстового *git config --global core.editor "code --wait"*
