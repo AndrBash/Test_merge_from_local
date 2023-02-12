@@ -10,3 +10,5 @@
 * изменение имени пользователя *git config username имя пользователя*
 * изменение почты *git config usermail название майла*
 * изменение типа редактора текстового *git config --global core.editor "code --wait"*
+
+## Ветки Git
